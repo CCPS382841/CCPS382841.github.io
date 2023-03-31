@@ -4,17 +4,23 @@ html {
   
 p {
   color: #936ED4;
-  font-size: 14pt;
+  font-size: 16pt;
 }
 
 ul {
   color: #F4ABA9;
+  font-weight: 300;
+  display: inline-block;
+  width: 80px;  
   
 }
 
 ol {
   color: #F4ABA9;
   font-size: 12pt;
+  font-weight: 300;
+  display: inline-block;
+  width: 80px;  
 }
 
 h1 {
@@ -24,14 +30,22 @@ h1 {
 
 header {
   color: #F06291;
-  width: 20px;
-  height: 70px;
+  position: fixed;
+  width: 100%;
+  z-index: 1;
 }
 
 body {
   color: #53CFDA;
+  font: 16pt;
+  
 }
 
 footer {
   color: #FADADE
+  padding: 30px 0;
+  display: inline-block;
+  z-index: 1;
+  width: 100%;
+  bottom: 0%;
 }
