@@ -1,34 +1,37 @@
+html {
+  background-color: #EFDCCE;
+  font-family: Monaco;
+  
 p {
   color: #936ED4;
-  font-family: Monaco;
+  font-size: 14pt;
 }
 
 ul {
   color: #F4ABA9;
-  font-family: Monaco;
+  
 }
 
 ol {
   color: #F4ABA9;
-  font-family: Monaco;
+  font-size: 12pt;
 }
 
 h1 {
   color: #A0DEEE;
-  font-family: Monaco;
+  font-size: 16pt;
 }
 
 header {
   color: #F06291;
-  font-family: Monaco;
+  width: 20px;
+  height: 70px;
 }
 
 body {
   color: #53CFDA;
-  font-family: Monaco;
 }
 
 footer {
   color: #FADADE
-  font-family: Monaco;
 }
