@@ -2,6 +2,20 @@ html {
   background-color: #EFDCCE;
   font-family: Monaco;
   
+  nav {
+  margin: 0;
+  padding: 20px 0;
+}
+
+nav li {
+  color: #CCCCFF;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+  font-size: 12px;
+  display: inline-block;
+  width: 80px;
+}
+
 p {
   color: #936ED4;
   font-size: 16pt;
