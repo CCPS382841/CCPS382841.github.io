@@ -1,1 +1,34 @@
+p {
+  color: #936ED4;
+  font-family: Monaco;
+}
 
+ul {
+  color: #F4ABA9;
+  font-family: Monaco;
+}
+
+ol {
+  color: #F4ABA9;
+  font-family: Monaco;
+}
+
+h1 {
+  color: #A0DEEE;
+  font-family: Monaco;
+}
+
+header {
+  color: #F06291;
+  font-family: Monaco;
+}
+
+body {
+  color: #53CFDA;
+  font-family: Monaco;
+}
+
+footer {
+  color: #FADADE
+  font-family: Monaco;
+}
