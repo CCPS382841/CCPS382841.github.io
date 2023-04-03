@@ -1,9 +1,9 @@
 html {
   background-color: #EFDCCE;
-  font-family: Monaco;
+  font-family: "Monaco";
   
   nav {
-  color: CCCCFF;
+  color: #CCCCFF;
   margin: 0;
   padding: 20px 0;
 }
@@ -17,7 +17,7 @@ nav li {
   }
   
 nav-item {
-  color: CCCCFF;
+  color: #CCCCFF;
   margin-left: 20px;
   margin-right: 20px;
   text-align: center;
