@@ -27,14 +27,6 @@ nav-item {
   border-color: 5B8CC1;
 }
 
-nav-item a {
-  text-decoration: none;
-  font-weight: bold;
-  padding: 20px;
-  width: 80px;
-  display: inline-block;
-}
-  
 p {
   color: #936ED4;
   font-size: 16pt;
