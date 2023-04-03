@@ -4,13 +4,13 @@ html {
 }
   
   nav {
-  color: "white";
+  color: #FFFFFF;
   margin: 0;
   padding: 20px 0;
 }
 
 nav li {
-  background-color: #CCCCFF;
+  background-color: #4ADEDE;
   font-weight: 600;
   font-size: 12px;
   display: inline-block;
