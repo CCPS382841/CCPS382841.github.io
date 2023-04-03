@@ -9,12 +9,11 @@ html {
 
 nav li {
   color: #CCCCFF;
-  font-family: 'Raleway', sans-serif;
   font-weight: 600;
   font-size: 12px;
   display: inline-block;
   width: 80px;
-  display: inline;}
+  }
 
 p {
   color: #936ED4;
