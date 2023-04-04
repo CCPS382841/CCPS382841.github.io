@@ -2,6 +2,13 @@ html {
   background-color: #EFDCCE;
   font-family: "Monaco";
 }
+header {
+  header {
+  background-color: #797EF6;
+  position: fixed;
+  width: 100%;
+  z-index: 1;
+  }
   
   nav {
   margin: 0;
