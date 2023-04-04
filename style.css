@@ -1,10 +1,10 @@
 html {
   background-color: #EFDCCE;
-  font-family: "Comic Sans MS";
+  font-family: "monospace";
 }
 
 header {
-  background-color: #4ADEDE;
+  background-color: #FA86C4;
   position: fixed;
   width: 100%;
   z-index: 1;
@@ -16,11 +16,13 @@ header {
 }
 
 nav li {
+  padding:
   color: #FFFFFF;
   font-weight: 600;
   font-size: 12px;
   display: inline-block;
   width: 80px;
+  text-align: center;
 }
 
 p {
