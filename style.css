@@ -20,7 +20,7 @@ nav li {
   color: #FFFFFF;
   font-weight: 600;
   font-size: 12px;
-  display: inline-block;
+  display: inline;
   width: 80px;
   text-align: center;
 }
