@@ -9,6 +9,13 @@ header {
   width: 100%;
   z-index: 1;
   padding: .5rem 3.75rem;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 80px;
+  display: flex;
+  align-items: center;
+}
   }
   
   nav {
@@ -58,11 +65,10 @@ header {
   width: 100%;
   z-index: 1;
 }
-
 body {
-  color: #53CFDA;
-  font: 16pt;
-  
+    height: 125vh;
+    margin-top: 80px;
+    padding: 30px;
 }
 
 footer {
