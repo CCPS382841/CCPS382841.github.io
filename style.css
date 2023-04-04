@@ -43,6 +43,8 @@ nav li {
 p {
   font-size: 15pt;
   color: #FE7F9C;
+  line-height: 2pt;
+ line-spacing: 1.5pt;
 }
 
 ul {
@@ -90,6 +92,4 @@ title {
  font-size: 30pt;
  color: "white";
  font-weight: 550;
- line-height: 2pt;
- line-spacing: 1.5pt;
 }
