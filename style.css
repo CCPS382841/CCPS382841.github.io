@@ -1,6 +1,6 @@
 html {
   background-color: #EFDCCE;
-  font-family: "Monaco";
+  font-family: "Comic Sans MS";
 }
 
 header {
@@ -21,11 +21,10 @@ nav li {
   font-size: 12px;
   display: inline-block;
   width: 80px;
-  text-align: center;
 }
 
 p {
-  color: #936ED4;
+  color: #57AOD3;
   font-size: 16pt;
 }
 
