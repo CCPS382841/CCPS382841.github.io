@@ -90,5 +90,6 @@ title {
  font-size: 30pt;
  color: "white";
  font-weight: 550;
- line-height: 2;
+ line-height: 2pt;
+ line-spacing: 1.5pt;
 }
