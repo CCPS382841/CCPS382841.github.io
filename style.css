@@ -41,8 +41,7 @@ nav li {
 }
 
 p {
-  color: #57AOD3;
-  font-size: 16pt;
+  font-size: 15pt;
 }
 
 ul {
@@ -79,7 +78,6 @@ body {
 }
 
 footer {
-  color: #FADADE;
   padding: 30px 0;
   display: inline-block;
   z-index: 1;
