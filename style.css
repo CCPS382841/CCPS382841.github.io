@@ -4,7 +4,7 @@ html {
 }
 
 header {
-  background-color: #65CBE9;
+  background-color: #B47EDE;
   position: fixed;
   width: 100%;
   z-index: 1;
@@ -87,6 +87,3 @@ footer {
   bottom: 0%;
 }
 
-title {
-  color: #  68B6EF;
-}
