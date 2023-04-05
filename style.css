@@ -11,17 +11,19 @@ header {
   top: 0;
   left: 0;
   height: 80px;
-  display: inline;
+  display: inline-block;
 }
 
 header * {
-    display: inline;
+    display: inline-block;
+    justify-content: center;
 }
 
 header li {
     margin: 20px;
     display: inline-block;
     text-align: center;
+    justify-content: center;
   }
   
   nav {
@@ -36,7 +38,7 @@ nav li {
   font-size: 12px;
   display: inline-block;
   width: 80px;
-  text-align: center;
+  justify-content: center;
   gap: 20px;
 }
 
@@ -44,6 +46,7 @@ li  {
   text-align: center;
   display: inline;
   gap: 20px;
+  justify-content: center;
 }
 
 p {
