@@ -3,18 +3,23 @@ html {
   font-family: "monospace";
 }
 
+ body {
+    height: 125vh;
+    min-height: 100vh;
+    overflow-x: hidden;
+}
+
 header {
   background-color: #B19CD8;
-  position: fixed;
-  width: 100%;
-  z-index: 1;
-  padding: .5rem 3.75rem;
+  position: absolute;
   top: 0;
   left: 0;
-  right: 0;
-  height: 80px;
-  display: flex;
+  width: 100%;
+  padding: 30px 100px;
+  display:flex;
+  justify-content: space-between;
   align-items: center;
+  z-index: 100;
 }
 
 header * {
@@ -24,7 +29,9 @@ header * {
 header li {
     margin: 20px;
   }
-  
+
+}
+
   nav {
   margin: 0;
   padding:  20px 0;
@@ -72,10 +79,7 @@ header {
   width: 100%;
   z-index: 1;
 }
-body {
-    height: 125vh;
-    margin-top: 80px;
-    padding: 30px;
+
 }
 
 footer {
