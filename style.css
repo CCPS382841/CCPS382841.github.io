@@ -14,7 +14,6 @@ header {
   right: 0;
   height: 80px;
   display: flex;
-  align-items: center;
 }
 
 header * {
@@ -22,7 +21,8 @@ header * {
 }
 
 header li {
-    margin: 20px;
+   margin: 20px;
+  text-align: center;
   }
   
   nav {
@@ -52,7 +52,7 @@ ul {
   display: inline-block;
   width: 80px;  
   align-text: center;
-  text-decoration: none;
+  text-decoration: #B19CD8;
 }
 
 ol {
@@ -68,11 +68,6 @@ h1 {
   font-size: 30pt;
 }
 
-header {
-  color: #F06291;
-  position: fixed;
-  width: 100%;
-  z-index: 1;
 }
 body {
     height: 125vh;
