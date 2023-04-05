@@ -14,6 +14,7 @@ header {
   right: 0;
   height: 80px;
   display: flex;
+  align-items: center;
 }
 
 header * {
@@ -21,8 +22,7 @@ header * {
 }
 
 header li {
-   margin: 20px;
-  text-align: center;
+    margin: 20px;
   }
   
   nav {
@@ -31,7 +31,6 @@ header li {
 }
 
 nav li {
-  margin: auto;
   padding-right: 2rem;
   color: #FFFFFF;
   font-weight: 600;
@@ -51,8 +50,7 @@ ul {
   font-weight: 300;
   display: inline-block;
   width: 80px;  
-  align-text: center;
-  text-decoration: #B19CD8;
+  
 }
 
 ol {
@@ -68,6 +66,11 @@ h1 {
   font-size: 30pt;
 }
 
+header {
+  color: #F06291;
+  position: fixed;
+  width: 100%;
+  z-index: 1;
 }
 body {
     height: 125vh;
@@ -81,9 +84,4 @@ footer {
   z-index: 1;
   width: 100%;
   bottom: 0%;
-}
-
-.about me {
-  margin: auto;
-  text-align: center;
 }
