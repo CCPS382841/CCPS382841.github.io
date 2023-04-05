@@ -5,16 +5,16 @@ html {
 
 header {
   background-color: #B19CD8;
-  position: fixed;
+  position: absolute;
   width: 100%;
-  z-index: 1;
-  padding: .5rem 3.75rem;
+  padding: 30px 100px;
   top: 0;
   left: 0;
   right: 0;
   height: 80px;
   display: flex;
   align-items: center;
+  justify-content: space-between;
 }
 
 header * {
