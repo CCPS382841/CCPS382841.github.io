@@ -52,6 +52,7 @@ ul {
   display: inline-block;
   width: 80px;  
   align-text: center;
+  text-decoration: none;
 }
 
 ol {
