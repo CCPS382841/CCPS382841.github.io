@@ -37,11 +37,13 @@ nav li {
   display: inline-block;
   width: 80px;
   text-align: center;
+  gap: 20px;
 }
 
 li  {
   text-align: center;
   display: inline;
+  gap: 20px;
 }
 
 p {
