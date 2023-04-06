@@ -14,9 +14,7 @@ header {
   height: 80px;
   display: inline-block;
 }
-header * {
-    display: inline-block;
-    justify-content: center;
+
 }
 header li {
     margin: 20px;
