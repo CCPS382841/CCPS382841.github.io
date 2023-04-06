@@ -15,15 +15,7 @@ header {
   display: inline-block;
 }
 
-}
-header li {
-    margin: 20px;
-    display: inline-block;
-    text-align: center;
-    justify-content: center;
-  }
-  
-  nav {
+nav {
   margin: 0;
   padding:  20px 0;
 }
