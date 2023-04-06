@@ -29,7 +29,7 @@ nav li {
   width: 80px;
   justify-content: center;
   gap: 20px 60px;
-  text-decoration: #B19CD8 none;
+  text-decoration: none;
 }
 
 p {
