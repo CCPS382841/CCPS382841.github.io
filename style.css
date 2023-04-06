@@ -36,25 +36,20 @@ nav li {
   width: 80px;
   justify-content: center;
   gap: 20px 20px;
-  
 }
-li  {
-  text-align: center;
-  display: inline;
-  gap: 20px;
-  justify-content: center;
-}
+
 p {
   font-size: 15pt;
   color: #FE7F9C;
 }
+
 ul {
   color: #65CBE9;
   font-weight: 300;
   display: inline-block;
   width: 80px;  
-  
 }
+
 ol {
   color: #65CBE9;
   font-size: 12pt;
@@ -66,12 +61,7 @@ h1 {
   color: #FE7F9C;
   font-size: 30pt;
 }
-header {
-  color: #F06291;
-  position: fixed;
-  width: 100%;
-  z-index: 1;
-}
+
 body {
     height: 125vh;
     margin-top: 80px;
