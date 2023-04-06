@@ -5,13 +5,14 @@ html {
 
 header {
   background-color: #B19CD8;
-  position: fixed;
-  width: 100%;
-  padding: .5rem 3.75rem;
+  position: absolute;
   top: 0;
   left: 0;
-  height: 80px;
-  display: inline-block;
+  width: 100%;
+  padding: 30px 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 header * {
@@ -19,12 +20,27 @@ header * {
     justify-content: center;
 }
 
-header li {
-    margin: 20px;
-    display: inline-block;
-    text-align: center;
-    justify-content: center;
+header ul li  {
+  list-style: none;
+  margin-left: 30px;
+}
+
+header ul li nav {
+  text-decoration: none;
+  padding: 6px 15px;
+  border-radius: 20px;
+}
+
+header ul li a:hover ,
+header ul li a: .active 
+
+header ul {
+  display: flex;
+  justify-content: center;
+  align-center: center;
+  
   }
+}
   
   nav {
   margin: 0;
@@ -43,12 +59,6 @@ nav li {
   
 }
 
-li  {
-  text-align: center;
-  display: inline;
-  gap: 20px;
-  justify-content: center;
-}
 
 p {
   font-size: 15pt;
