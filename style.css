@@ -25,7 +25,7 @@ nav li {
   color: #FFFFFF;
   font-weight: 600;
   font-size: 25px;
-  display: inline-block;
+  display: inline;
   width: 80px;
   justify-content: center;
   gap: 20px 40px;
