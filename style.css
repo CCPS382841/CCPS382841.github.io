@@ -66,11 +66,6 @@ h1 {
   font-size: 30pt;
 }
 
-header {
-  color: #F06291;
-  position: fixed;
-  width: 100%;
-  z-index: 1;
 }
 body {
     height: 125vh;
