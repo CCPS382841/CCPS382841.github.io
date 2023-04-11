@@ -29,7 +29,6 @@ nav li {
   width: 80px;
   justify-content: center;
   gap: 20px 60px;
-  text-decoration: none;
 }
 
 p {
@@ -43,8 +42,8 @@ li {
   font-weight: 300;
   display: inline-block;
   width: 80px;  
-  text-decoration: none;
 }
+
 h1 {
   color: #FE7F9C;
   font-size: 30pt;
